@@ -10,7 +10,7 @@ form.addEventListener("submit", function(e){
     e.preventDefault();
 
     if(valor_1.value > valor_2.value){
-        p.textContent = "O primeiro Valor é maior que o primeiro";
+        p.textContent = "O primeiro Valor é maior que o segundo";
         p.classList.add("editar-p");
         p.style.padding ="15px"
     }else if(valor_2.value > valor_1.value){
