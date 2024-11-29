@@ -42,3 +42,14 @@ body{
 .formatar-tamanho{
     margin-left: 50px;
 }
+
+.container p{
+    padding: 2px;
+    text-align: center;
+    margin-right: 50px;
+}
+
+.editar-p{
+    font-size: 20px;
+    font-weight: bold;
+}
